@@ -23,10 +23,3 @@ To visualize and discover the best practices in your retail or online business t
 ### Prerequisite
 
 Make sure to have Python 3.6 and higher and also Pip package in your system.
-
-### Steps for Installation
-
-1. Clone or download the repository in your local system.
-
-  ```bash
-    git clone https://github.com/yourusername/retail-sales-dashboard.git
